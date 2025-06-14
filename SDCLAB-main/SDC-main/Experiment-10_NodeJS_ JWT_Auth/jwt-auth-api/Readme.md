@@ -81,9 +81,9 @@ POST /api/students
 Authorization: Bearer Token required
 Body:
 {
-  "name": "Swayam",
-  "age": 21,
-  "course": "Mathematics"
+  "name": "Lavanya",
+  "age": 20,
+  "course": "SDC"
 }
 
 ➤ Update Student by ID
@@ -97,9 +97,9 @@ SAMPLE OUTPUT
 [
   {
     "id": 1,
-    "name": "Swayam",
-    "age": 21,
-    "course": "Mathematics"
+    "name": "Lavanya",
+    "age": 20,
+    "course": "SDC"
   }
 ]
 
@@ -107,7 +107,7 @@ LICENSE
 This project is open-source and available under the MIT License
 
 Author
-•tarunteja
+•Lavanya
 
 Contributing
 Feel free to fork this repository and suggest improvements via pull requests. All contributions are welcome!
