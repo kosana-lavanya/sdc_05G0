@@ -47,9 +47,9 @@ Add a Student
 POST /api/students
 Body:
 {
-  "name": "Swayam",
-  "age": 21,
-  "course": " Mathematics"
+  "name": "Lavanya",
+  "age": 20,
+  "course": " SDC"
 }
 
 Update Student by ID
@@ -74,4 +74,4 @@ License
 This project is open-source and available under the MIT License
 
 Author
-•tarunteja
+•Lavanya
