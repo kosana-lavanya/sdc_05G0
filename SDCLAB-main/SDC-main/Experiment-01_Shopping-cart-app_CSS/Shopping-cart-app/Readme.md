@@ -29,6 +29,7 @@ ShoppingCartApp/
 │── server.js # Node.js Express server
 │── package.json # Project dependencies and scripts
 │── README.md # Project documentation
+![Screenshot_2025-06-22_190317 1](https://github.com/user-attachments/assets/33bd924b-75eb-477f-a97f-9ab94337b4a0)
 
 Installation & Setup
 
