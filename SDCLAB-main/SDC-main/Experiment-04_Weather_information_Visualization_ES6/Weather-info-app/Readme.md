@@ -19,7 +19,7 @@ Features
 •Dynamic UI updates using JavaScript DOM manipulation
 •Graphical representation of weather data using Chart.js
 •Error handling for better user experience
-
+![Image](https://github.com/user-attachments/assets/07882640-c1b8-4899-be33-a9350c13ae59)
 Installation & Setup
 1.Clone the repository:
 2.git clone https://github.com/your-repo/weather-visualization.git
