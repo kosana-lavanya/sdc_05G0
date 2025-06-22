@@ -20,7 +20,7 @@ Client-side validation ensures that form inputs meet the required format before 
 •Uses a regular expression to validate email format.
 •Checks that the password is at least 6 characters long.
 •Displays an alert for invalid input.
-
+![Image](https://github.com/user-attachments/assets/2dfb6819-c034-41af-acfb-9bdf0bee5ce1)
 4.2 Shopping Cart Validation
 •Retrieves cart items from localStorage.
 •Validates quantity (must be a positive number).
